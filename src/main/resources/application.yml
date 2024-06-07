@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: hxzy-h7
+
+netty:
+  port: 8087
+
